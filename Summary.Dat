@@ -1,0 +1,24 @@
+[Date]
+0=05.04.2016
+1=05.04.2016
+[Device]
+0=41363130
+1=41363130
+[Auto]
+0=Series 5
+1=Series 5
+[EcuType]
+0=EDC16C31
+1=EDC16C31
+[Action]
+0=Read
+1=Write
+[Hardware No']
+0=1037390905
+1=1037390905
+[FileName]
+0=1037390905.Bin
+1=WinOLS (1016.ols (dpf off) - 390905).bin
+[Comments]
+0=Compleated
+1=Compleated
